@@ -49,6 +49,10 @@ npm install
 npm run dev
 ```
 
+## Live URL
+
+[Live](https://bookmark-page-react-tailwind.vercel.app/)
+
 ## Author
 
 - GitHub: [p3lm3shka1](https://github.com/p3lm3shka1)
